@@ -96,7 +96,7 @@
           return
           end
 
-!     Calculates lift from provided arguments (formula provided)
+!!     Calculates lift from provided arguments (formula provided)
       real function calc_lift(velo, wingSA, dens, coLift)
 !           integer wingSA
            real velo, dens, coLift, wingSA
